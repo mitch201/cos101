@@ -1,0 +1,11 @@
+print("================================================")
+print("COS101 PRACTICAL")
+print("Introduction to python")
+print("================================================")
+print()
+print("programme:software Engineering")
+print("Level:100")
+print("Week:1")
+print()
+print("Today,I will create and run a python program.")
+      
